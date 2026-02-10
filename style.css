@@ -6,14 +6,14 @@ body {
   font-family: 'Roboto', sans-serif;
 }
 
-/* Header layout (mobile first) */
+/* Mobile first layout */
 .header {
   display: grid;
   grid-template-columns: 1fr;
-  background-color: rgb(26, 47, 48);
+  background-color: cadetblue;
 }
 
-/* Title section */
+/* Text section */
 .title {
   padding: 50px 25px;
   text-align: center;
